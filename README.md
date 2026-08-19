@@ -32,6 +32,6 @@ To run this project on your local machine, you need [Node.js](https://nodejs.org
 ## 📬 Contact
 
 - **Email:** akaawk@gmail.com
-- **GitHub:** [amirkhan10](https://github.com/amirnasirak)
-- **Linktree:** [amirkhanak](https://linktr.ee/amirkhan10)
+- **GitHub:** [amirkhanak](https://github.com/amirnasirak)
+- **Linktree:** [amirkhan10](https://linktr.ee/amirkhan10)
 - **Kaggle:** [amirkhan85](https://www.kaggle.com/amirkhan85)
